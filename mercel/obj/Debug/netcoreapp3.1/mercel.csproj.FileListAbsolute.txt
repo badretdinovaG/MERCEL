@@ -1,0 +1,14 @@
+C:\Users\DroWez\source\repos\mercel\mercel\bin\Debug\netcoreapp3.1\mercel.exe
+C:\Users\DroWez\source\repos\mercel\mercel\bin\Debug\netcoreapp3.1\mercel.deps.json
+C:\Users\DroWez\source\repos\mercel\mercel\bin\Debug\netcoreapp3.1\mercel.runtimeconfig.json
+C:\Users\DroWez\source\repos\mercel\mercel\bin\Debug\netcoreapp3.1\mercel.runtimeconfig.dev.json
+C:\Users\DroWez\source\repos\mercel\mercel\bin\Debug\netcoreapp3.1\mercel.dll
+C:\Users\DroWez\source\repos\mercel\mercel\bin\Debug\netcoreapp3.1\mercel.pdb
+C:\Users\DroWez\source\repos\mercel\mercel\obj\Debug\netcoreapp3.1\mercel.csproj.AssemblyReference.cache
+C:\Users\DroWez\source\repos\mercel\mercel\obj\Debug\netcoreapp3.1\mercel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DroWez\source\repos\mercel\mercel\obj\Debug\netcoreapp3.1\mercel.AssemblyInfoInputs.cache
+C:\Users\DroWez\source\repos\mercel\mercel\obj\Debug\netcoreapp3.1\mercel.AssemblyInfo.cs
+C:\Users\DroWez\source\repos\mercel\mercel\obj\Debug\netcoreapp3.1\mercel.csproj.CoreCompileInputs.cache
+C:\Users\DroWez\source\repos\mercel\mercel\obj\Debug\netcoreapp3.1\mercel.dll
+C:\Users\DroWez\source\repos\mercel\mercel\obj\Debug\netcoreapp3.1\mercel.pdb
+C:\Users\DroWez\source\repos\mercel\mercel\obj\Debug\netcoreapp3.1\mercel.genruntimeconfig.cache
